@@ -1,0 +1,27 @@
+.parent {
+  margin:15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+  border: 5px solid #333333;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #ff0808;
+  
+}
+.child {
+  display: flex;
+  border:5px solid gold;
+  background-color: #f50f9d;
+  flex-basis: 23%;
+  height:280px;
+  margin-bottom: 20px;
+}
+.sm-child {
+  border: 5px solid  #fc6610;
+  background-color:#a10144;
+  width:227px;
+  height:80px;
+  margin:10px;
+  padding: 15px;
+}

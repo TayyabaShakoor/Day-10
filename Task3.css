@@ -1,0 +1,42 @@
+.parent {
+    margin:100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:start;
+    border: 5px solid #fcc2fc;
+    padding: 10px;
+    background-color: #fcd3f1;
+    
+  }
+  .child {
+    display: flex;
+    border:5px solid rgb(236, 27, 27);
+    background-color: #fdc1f0;
+    width:310px;
+    height:310px;
+    margin: 20px;
+  }
+  .ch2 {
+    width:160px ;
+    height: 160px;
+  }
+  .ch3 {
+    width:210px;
+    height:210px;
+  }
+  .ch4 {
+   width:90px;
+   height:90px;
+  } 
+  .ch5 {
+    width:130px;
+    height: 130px;
+  }
+   .ch6 {
+    width:160px ;
+    height: 160px;
+  }
+  .ch7 {
+    width:90px;
+    height:90px;
+   } 
